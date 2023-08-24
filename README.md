@@ -1,1 +1,1 @@
-# combinational-ckt
+# combinational circuit projects
